@@ -1,4 +1,5 @@
 # loopback-component-passport
+** DW FORK: add accessToken param to successredirect (WIP)
 
 **NOTE: This module supersedes [loopback-passport](https://www.npmjs.org/package/loopback-passport). Please update your package.json accordingly.**
 
